@@ -52,3 +52,14 @@ git stash pop，恢复的同时把stash内容也删了：
 $ git cherry-pick 复制一个特定的提交到当前分支
 $ git branch -D 强行删除
 $ git remote add origin {remote_repo_addr}
+
+
+
+
+. 当前目录
+.. 上一级目录
+~ home目录
+/ 根目录
+
+
+
